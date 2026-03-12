@@ -43,13 +43,13 @@ A deep learning model that converts grayscale images into color images using an 
 
 Workflow:-
 Grayscale Image
-↓
+->
 Encoder
-↓
+->
 Latent Representation
-↓
+->
 Decoder
-↓
+->
 Colored Image
 
 
@@ -77,13 +77,13 @@ A Generative Adversarial Network (GAN) used to generate anime-style images.
 
 Architecture:
 Noise Vector
-↓
+->
 Generator
-↓
+->
 Generated Image
-↓
+->
 Discriminator
-↓
+->
 Real / Fake Classification
 
 
